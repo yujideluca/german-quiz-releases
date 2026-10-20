@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
+  "versionCode": 16,
+  "versionName": "2.5",
   "apk": "german-quiz.apk",
-  "sha256": "8e86404e2ad08b452492fca7d666c258ce4ac6030b42740f3ea0bdcbab03268f",
-  "commit": "3c2aa50860f1828d9dd31d46573d0d87f2bc7735"
+  "sha256": "aefb6864d16c17d9821acd174b0e863c61e0f55c4e520a3b3d531deb628f3e84",
+  "commit": "37c5655082b79846e0346f88b0abe1e4cf987ee0"
 }
