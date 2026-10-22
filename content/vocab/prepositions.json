@@ -1,0 +1,2522 @@
+[
+ {
+  "kind": "V",
+  "headword": "warten",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Ich warte ___ den Bus.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "denken",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Er denkt oft ___ seine Familie.",
+  "alsoValidPrepositions": [
+   "über"
+  ]
+ },
+ {
+  "kind": "V",
+  "headword": "sich freuen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Wir freuen uns ___ den Urlaub.",
+  "alsoValidPrepositions": [],
+  "hint": "looking forward to something in the future"
+ },
+ {
+  "kind": "V",
+  "headword": "sich freuen",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Sie freut sich ___ das Geschenk.",
+  "alsoValidPrepositions": [],
+  "hint": "being happy about something present or past"
+ },
+ {
+  "kind": "V",
+  "headword": "sich ärgern",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Ich ärgere mich ___ den Lärm.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich interessieren",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Er interessiert sich ___ Geschichte.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich bewerben",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Sie bewirbt sich ___ eine Stelle.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich entscheiden",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Wir haben uns ___ das rote Auto entschieden.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich erinnern",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Ich erinnere mich gern ___ unsere Reise.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich gewöhnen",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Er gewöhnt sich ___ das Klima.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich verlassen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Du kannst dich ___ mich verlassen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich vorbereiten",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Sie bereitet sich ___ die Prüfung vor.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich konzentrieren",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Ich muss mich ___ die Arbeit konzentrieren.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich beschweren",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Die Gäste beschweren sich ___ den Service.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich kümmern",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Sie kümmert sich ___ ihre Großeltern.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich handeln",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Es handelt sich ___ ein Missverständnis.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich beschäftigen",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Er beschäftigt sich ___ einem neuen Projekt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich treffen",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Ich treffe mich ___ einer Freundin.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich verabreden",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Er verabredet sich ___ seinem Kollegen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich verlieben",
+  "preposition": "in",
+  "case": "A",
+  "sentence": "Sie hat sich ___ ihn verliebt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich fürchten",
+  "preposition": "vor",
+  "case": "D",
+  "sentence": "Das Kind fürchtet sich ___ dem Hund.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich schützen",
+  "preposition": "vor",
+  "case": "D",
+  "sentence": "Man schützt sich ___ der Sonne.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich ausruhen",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Ich ruhe mich ___ der Arbeit aus.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich erholen",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Sie erholt sich ___ der Krankheit.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich bedanken",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Ich bedanke mich ___ die Einladung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich entschuldigen",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Er entschuldigt sich ___ die Verspätung.",
+  "alsoValidPrepositions": [],
+  "hint": "what you apologise for"
+ },
+ {
+  "kind": "V",
+  "headword": "sich entschuldigen",
+  "preposition": "bei",
+  "case": "D",
+  "sentence": "Sie entschuldigt sich ___ ihrem Lehrer.",
+  "alsoValidPrepositions": [],
+  "hint": "who you apologise to"
+ },
+ {
+  "kind": "V",
+  "headword": "sich beteiligen",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Wir beteiligen uns ___ dem Wettbewerb.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich wenden",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Wenden Sie sich bitte ___ den Kundenservice.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich erkundigen",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Ich erkundige mich ___ dem Preis.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich sehnen",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Er sehnt sich ___ Ruhe.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich bemühen",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Sie bemüht sich ___ eine Lösung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich einigen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Wir haben uns ___ einen Termin geeinigt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich beziehen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Ich beziehe mich ___ Ihren Brief.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich ernähren",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Pandas ernähren sich ___ Bambus.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich trennen",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Sie trennt sich ___ ihrem Freund.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich verstehen",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Ich verstehe mich gut ___ meinem Bruder.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich streiten",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Sie streiten sich ___ das Geld.",
+  "alsoValidPrepositions": [
+   "um"
+  ]
+ },
+ {
+  "kind": "V",
+  "headword": "sich wundern",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Ich wundere mich ___ sein Verhalten.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich aufregen",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Sie regt sich ___ den Lärm auf.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich verabschieden",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Wir verabschieden uns ___ unseren Gästen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "anfangen",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Wir fangen ___ der Arbeit an.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "aufhören",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Er hört ___ dem Rauchen auf.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "teilnehmen",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Sie nimmt ___ dem Kurs teil.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "bestehen",
+  "preposition": "aus",
+  "case": "D",
+  "sentence": "Das Team besteht ___ zehn Personen.",
+  "alsoValidPrepositions": [],
+  "hint": "consist of (what it is made of)"
+ },
+ {
+  "kind": "V",
+  "headword": "bestehen",
+  "preposition": "auf",
+  "case": "D",
+  "sentence": "Er besteht ___ seinem Recht.",
+  "alsoValidPrepositions": [],
+  "hint": "insist on"
+ },
+ {
+  "kind": "V",
+  "headword": "abhängen",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Es hängt ___ dem Wetter ab.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sprechen",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Wir sprechen ___ das Problem.",
+  "alsoValidPrepositions": [
+   "von"
+  ],
+  "hint": "talk about a topic"
+ },
+ {
+  "kind": "V",
+  "headword": "sprechen",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Ich spreche ___ meinem Chef.",
+  "alsoValidPrepositions": [],
+  "hint": "talk to a person"
+ },
+ {
+  "kind": "V",
+  "headword": "träumen",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Sie träumt ___ einer Weltreise.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "glauben",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Er glaubt ___ seinen Erfolg.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "zweifeln",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Ich zweifle ___ seiner Ehrlichkeit.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "leiden",
+  "preposition": "unter",
+  "case": "D",
+  "sentence": "Viele Menschen leiden ___ Stress.",
+  "alsoValidPrepositions": [
+   "an"
+  ]
+ },
+ {
+  "kind": "V",
+  "headword": "fragen",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Sie fragt ___ dem Weg.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "suchen",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Wir suchen ___ einer Lösung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "riechen",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Es riecht ___ frischem Brot.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "schmecken",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Die Suppe schmeckt ___ Knoblauch.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "halten",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Ich halte das ___ eine gute Idee.",
+  "alsoValidPrepositions": [],
+  "hint": "consider something to be"
+ },
+ {
+  "kind": "V",
+  "headword": "halten",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Was hältst du ___ diesem Plan?",
+  "alsoValidPrepositions": [],
+  "hint": "think of / have an opinion about"
+ },
+ {
+  "kind": "V",
+  "headword": "rechnen",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Wir rechnen ___ Verspätungen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "achten",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Bitte achten Sie ___ die Zeit.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "aufpassen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Sie passt ___ die Kinder auf.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "warnen",
+  "preposition": "vor",
+  "case": "D",
+  "sentence": "Der Arzt warnt ___ den Risiken.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "einladen",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Er lädt uns ___ seiner Party ein.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "gratulieren",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Wir gratulieren dir ___ deinem Geburtstag.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "passen",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Die Schuhe passen gut ___ dem Kleid.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "gehören",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Er gehört ___ unserem Team.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "führen",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Das führt ___ Problemen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "beitragen",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Jeder kann ___ dem Erfolg beitragen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "neigen",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Er neigt ___ Übertreibungen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "überzeugen",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Sie überzeugt ihn ___ ihrer Idee.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "erzählen",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Er erzählt ___ seiner Reise.",
+  "alsoValidPrepositions": [
+   "über"
+  ]
+ },
+ {
+  "kind": "V",
+  "headword": "berichten",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Die Zeitung berichtet ___ den Unfall.",
+  "alsoValidPrepositions": [
+   "von"
+  ]
+ },
+ {
+  "kind": "V",
+  "headword": "informieren",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Wir informieren Sie ___ die Änderungen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "diskutieren",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Sie diskutieren ___ das Thema.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "nachdenken",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Ich denke ___ den Vorschlag nach.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "lachen",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Wir lachen ___ den Witz.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "verzichten",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Sie verzichtet ___ Zucker.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "hoffen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Wir hoffen ___ besseres Wetter.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sorgen",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Eltern sorgen ___ ihre Kinder.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "danken",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Ich danke dir ___ deine Hilfe.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "bitten",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Er bittet ___ Hilfe.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "kämpfen",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Sie kämpfen ___ mehr Rechte.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "klagen",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Er klagt ___ Rückenschmerzen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "ausgeben",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Wir geben viel Geld ___ Essen aus.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "umgehen",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Er geht gut ___ Kindern um.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "telefonieren",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Ich telefoniere ___ meiner Mutter.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "zusammenarbeiten",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Wir arbeiten eng ___ der Firma zusammen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "stolz",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Er ist stolz ___ seine Tochter.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "eifersüchtig",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Sie ist eifersüchtig ___ ihre Schwester.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "neugierig",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Wir sind neugierig ___ das Ergebnis.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "gespannt",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Ich bin gespannt ___ die Antwort.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "wütend",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Er ist wütend ___ seinen Chef.",
+  "alsoValidPrepositions": [
+   "über"
+  ]
+ },
+ {
+  "kind": "A",
+  "headword": "sauer",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Er ist sauer ___ mich.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "begeistert",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Sie ist begeistert ___ dem Konzert.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "abhängig",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Er ist finanziell abhängig ___ seinen Eltern.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "enttäuscht",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Ich bin ___ dem Film enttäuscht.",
+  "alsoValidPrepositions": [
+   "über"
+  ]
+ },
+ {
+  "kind": "A",
+  "headword": "überrascht",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Sie war überrascht ___ der Nachricht.",
+  "alsoValidPrepositions": [
+   "über"
+  ]
+ },
+ {
+  "kind": "A",
+  "headword": "verantwortlich",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Er ist ___ das Projekt verantwortlich.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "bekannt",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Die Stadt ist bekannt ___ ihren Käse.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "berühmt",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Italien ist berühmt ___ seine Küche.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "typisch",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Das ist typisch ___ ihn.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "wichtig",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Gesundheit ist wichtig ___ uns.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "bereit",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Er ist bereit ___ einem Kompromiss.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "nett",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Sie ist nett ___ allen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "zufrieden",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Ich bin zufrieden ___ dem Ergebnis.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "verheiratet",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Er ist ___ einer Ärztin verheiratet.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "verbunden",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Das Risiko ist ___ hohen Kosten verbunden.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "einverstanden",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Ich bin ___ deinem Vorschlag einverstanden.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "beschäftigt",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Sie ist ___ der Planung beschäftigt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "fertig",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Ich bin ___ den Hausaufgaben fertig.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "angewiesen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Wir sind ___ deine Hilfe angewiesen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "gewöhnt",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Ich bin ___ die Kälte gewöhnt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "interessiert",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Er ist ___ einem Job interessiert.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "reich",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Das Land ist reich ___ Rohstoffen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "schuld",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Er ist schuld ___ dem Unfall.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "beteiligt",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Sie ist ___ dem Projekt beteiligt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "müde",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Ich bin ___ der Arbeit müde.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "voll",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Das Zimmer war voll ___ Menschen.",
+  "alsoValidPrepositions": [
+   "mit"
+  ]
+ },
+ {
+  "kind": "A",
+  "headword": "glücklich",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Sie ist glücklich ___ die Nachricht.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "traurig",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Wir sind traurig ___ den Verlust.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "froh",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Ich bin froh ___ deine Hilfe.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "verliebt",
+  "preposition": "in",
+  "case": "A",
+  "sentence": "Er ist ___ sie verliebt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "gut",
+  "preposition": "in",
+  "case": "D",
+  "sentence": "Er ist gut ___ Mathematik.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Angst",
+  "preposition": "vor",
+  "case": "D",
+  "sentence": "Er hat Angst ___ der Prüfung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Lust",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Ich habe Lust ___ ein Eis.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "das Interesse",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Sie hat Interesse ___ Kunst.",
+  "alsoValidPrepositions": [
+   "für"
+  ]
+ },
+ {
+  "kind": "N",
+  "headword": "die Hoffnung",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Wir haben Hoffnung ___ Besserung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Freude",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Er hat Freude ___ seiner Arbeit.",
+  "alsoValidPrepositions": [
+   "über"
+  ]
+ },
+ {
+  "kind": "N",
+  "headword": "der Wunsch",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Sie hat den Wunsch ___ Veränderung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Frage",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Die Frage ___ dem Sinn bleibt offen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Suche",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Die Suche ___ einer Wohnung ist schwer.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Nachfrage",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Die Nachfrage ___ Elektroautos steigt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Erinnerung",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Ich habe schöne Erinnerungen ___ den Sommer.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Glaube",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Der Glaube ___ die Zukunft hilft.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Zweifel",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Ich habe Zweifel ___ seiner Aussage.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Mangel",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Es gibt einen Mangel ___ Fachkräften.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Erfahrung",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Sie hat gute Erfahrungen ___ dem Programm gemacht.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Beziehung",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Er hat eine gute Beziehung ___ seinen Eltern.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Verantwortung",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Sie trägt die Verantwortung ___ das Team.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "das Verständnis",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Ich habe Verständnis ___ deine Lage.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Grund",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Was ist der Grund ___ die Verspätung?",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Ursache",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Die Ursache ___ den Fehler ist unklar.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Beweis",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Es gibt keinen Beweis ___ diese Theorie.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "das Beispiel",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Das ist ein gutes Beispiel ___ Teamarbeit.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Lösung",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Wir suchen eine Lösung ___ das Problem.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Streit",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Der Streit ___ das Erbe dauert an.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Sorge",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Sie hat Sorge ___ ihre Kinder.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Bitte",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Ich habe eine Bitte ___ Hilfe.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Unterschied",
+  "preposition": "zwischen",
+  "case": "D",
+  "sentence": "Der Unterschied ___ den beiden Wörtern ist klein.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Einladung",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Danke für die Einladung ___ deiner Party.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Wut",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Er hat Wut ___ seinen Nachbarn.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Stolz",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Ihr Stolz ___ die Kinder ist groß.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Einfluss",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Das Wetter hat Einfluss ___ die Stimmung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Anspruch",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Er hat Anspruch ___ Urlaub.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Respekt",
+  "preposition": "vor",
+  "case": "D",
+  "sentence": "Ich habe Respekt ___ seiner Leistung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Rücksicht",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Man muss Rücksicht ___ andere nehmen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Teilnahme",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Die Teilnahme ___ dem Kurs ist freiwillig.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "im Gegensatz",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Im Gegensatz ___ ihm ist sie pünktlich.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "im Vergleich",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Im Vergleich ___ gestern ist es heute kalt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "im Zusammenhang",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Im Zusammenhang ___ dem Unfall gab es Fragen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "in Bezug",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "In Bezug ___ den Preis gibt es noch Fragen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "im Hinblick",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Im Hinblick ___ die Zukunft planen wir neu.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "unter Druck",
+  "preposition": "unter",
+  "case": "D",
+  "sentence": "Er steht ___ großem Druck.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "in der Lage sein",
+  "preposition": "in",
+  "case": "D",
+  "sentence": "Sie ist nicht ___ der Lage zu kommen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "es geht",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Es geht ___ eine wichtige Frage.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "zu Fuß",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Wir gehen ___ Fuß.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "mit dem Bus fahren",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Ich fahre ___ dem Bus zur Arbeit.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "auf dem Land",
+  "preposition": "auf",
+  "case": "D",
+  "sentence": "Sie wohnen ___ dem Land.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "zu Hause",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Heute bleibe ich ___ Hause.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "nach Hause",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Ich gehe jetzt ___ Hause.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "auf Deutsch",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Sagen Sie es bitte ___ Deutsch.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "bei Regen",
+  "preposition": "bei",
+  "case": "D",
+  "sentence": "___ Regen bleiben wir zu Hause.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "vor allem",
+  "preposition": "vor",
+  "case": "D",
+  "sentence": "Ich mag Obst, ___ allem Äpfel.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "für immer",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Wir bleiben ___ immer Freunde.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich anpassen",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Er passt sich schnell ___ die neue Situation an.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich befassen",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Die Studie befasst sich ___ dem Klimawandel.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich engagieren",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Sie engagiert sich ___ den Umweltschutz.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich eignen",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Das Material eignet sich gut ___ Möbel.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich entwickeln",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Das Dorf hat sich ___ einer Großstadt entwickelt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich orientieren",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Wir orientieren uns ___ den Vorgaben der Firma.",
+  "alsoValidPrepositions": [
+   "nach"
+  ]
+ },
+ {
+  "kind": "V",
+  "headword": "sich stützen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Die Ärztin stützt sich ___ die Ergebnisse der Untersuchung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich spezialisieren",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Er hat sich ___ Radiologie spezialisiert.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich unterhalten",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Wir unterhalten uns ___ das Wetter.",
+  "alsoValidPrepositions": [],
+  "hint": "the topic of the conversation"
+ },
+ {
+  "kind": "V",
+  "headword": "sich unterhalten",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Ich unterhalte mich gern ___ meiner Nachbarin.",
+  "alsoValidPrepositions": [],
+  "hint": "the person you talk to"
+ },
+ {
+  "kind": "V",
+  "headword": "sich verstecken",
+  "preposition": "vor",
+  "case": "D",
+  "sentence": "Das Kind versteckt sich ___ dem Hund.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich verwandeln",
+  "preposition": "in",
+  "case": "A",
+  "sentence": "Die Raupe verwandelt sich ___ einen Schmetterling.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich vertiefen",
+  "preposition": "in",
+  "case": "A",
+  "sentence": "Er vertieft sich ___ ein Buch.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich zusammensetzen",
+  "preposition": "aus",
+  "case": "D",
+  "sentence": "Das Team setzt sich ___ zehn Personen zusammen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich beschränken",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Bitte beschränken Sie sich ___ das Wesentliche.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sich einsetzen",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Der Verein setzt sich ___ die Rechte der Kinder ein.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "abstimmen",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Das Parlament stimmt morgen ___ das Gesetz ab.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "ankommen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Es kommt ___ die Qualität an, nicht auf die Menge.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "anspielen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Er spielt ___ unser letztes Gespräch an.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "antworten",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Bitte antworten Sie ___ meine E-Mail.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "appellieren",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Die Regierung appelliert ___ die Vernunft der Bürger.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "arbeiten",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Sie arbeitet ___ einem neuen Projekt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "ausgehen",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Wir gehen ___ einem Anstieg der Preise aus.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "aussehen",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Es sieht ___ Regen aus.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "basieren",
+  "preposition": "auf",
+  "case": "D",
+  "sentence": "Die Theorie basiert ___ vielen Beobachtungen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "bauen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Du kannst ___ meine Hilfe bauen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "beharren",
+  "preposition": "auf",
+  "case": "D",
+  "sentence": "Er beharrt ___ seiner Meinung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "beruhen",
+  "preposition": "auf",
+  "case": "D",
+  "sentence": "Das Ergebnis beruht ___ einem Missverständnis.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "betteln",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Der Hund bettelt ___ Futter.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "entscheiden",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Das Gericht entscheidet ___ den Fall.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "eingehen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Der Redner ging nicht ___ die Frage ein.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "erkranken",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Viele Menschen erkranken ___ Grippe.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "fehlen",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Es fehlt uns ___ Zeit.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "gelten",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Diese Regel gilt ___ alle Mitarbeiter.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "grenzen",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Deutschland grenzt ___ neun Länder.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "handeln",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Das Buch handelt ___ einem Jungen im Krieg.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "hindern",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Der Lärm hindert mich ___ der Arbeit.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "hinweisen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Der Arzt weist ___ die Nebenwirkungen hin.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "investieren",
+  "preposition": "in",
+  "case": "A",
+  "sentence": "Die Firma investiert ___ neue Maschinen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "lächeln",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Sie lächelt ___ den Witz.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "leben",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Er lebt ___ seinem Gehalt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "profitieren",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Alle profitieren ___ der neuen Regelung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "protestieren",
+  "preposition": "gegen",
+  "case": "A",
+  "sentence": "Die Studenten protestieren ___ die Gebühren.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "raten",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Der Arzt rät ___ einer Operation.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "reagieren",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Wie reagiert er ___ die Kritik?",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "scheitern",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Das Projekt ist ___ den hohen Kosten gescheitert.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "spotten",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Sie spotten ___ seinen Akzent.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "stammen",
+  "preposition": "aus",
+  "case": "D",
+  "sentence": "Ich stamme ___ Brasilien.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "streben",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Er strebt ___ Erfolg.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "sterben",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Er ist ___ einem Herzinfarkt gestorben.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "tendieren",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Ich tendiere ___ der zweiten Lösung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "unterscheiden",
+  "preposition": "zwischen",
+  "case": "D",
+  "sentence": "Man muss ___ Fakten und Meinungen unterscheiden.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "verfügen",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Das Hotel verfügt ___ einen Pool.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "verstoßen",
+  "preposition": "gegen",
+  "case": "A",
+  "sentence": "Er hat ___ die Regeln verstoßen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "verzweifeln",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Sie verzweifelt ___ dieser Aufgabe.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "werben",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Die Firma wirbt ___ ihr neues Produkt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "V",
+  "headword": "zielen",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Die Maßnahme zielt ___ eine bessere Versorgung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "fähig",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Er ist ___ allem fähig.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "geeignet",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Dieser Kurs ist gut ___ Anfänger geeignet.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "allergisch",
+  "preposition": "gegen",
+  "case": "A",
+  "sentence": "Ich bin ___ Pollen allergisch.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "immun",
+  "preposition": "gegen",
+  "case": "A",
+  "sentence": "Sie ist ___ diese Krankheit immun.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "empfindlich",
+  "preposition": "gegen",
+  "case": "A",
+  "sentence": "Seine Haut ist empfindlich ___ Kälte.",
+  "alsoValidPrepositions": [
+   "auf"
+  ]
+ },
+ {
+  "kind": "A",
+  "headword": "freundlich",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Der Verkäufer war sehr freundlich ___ uns.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "arm",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Das Land ist arm ___ Rohstoffen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "süchtig",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Er ist süchtig ___ Schokolade.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "offen",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Wir sind offen ___ neue Ideen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "dankbar",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Ich bin dir sehr dankbar ___ deine Hilfe.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "zuständig",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Wer ist hier ___ die Beschwerden zuständig?",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "konfrontiert",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Die Ärzte sind ___ einem neuen Virus konfrontiert.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "vertraut",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Er ist ___ den Regeln vertraut.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "vergleichbar",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Das ist nicht ___ früher vergleichbar.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "verwandt",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Ich bin ___ ihm verwandt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "befreundet",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Sie ist seit Jahren ___ meiner Schwester befreundet.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "besorgt",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Die Eltern sind ___ ihre Tochter besorgt.",
+  "alsoValidPrepositions": [
+   "über"
+  ]
+ },
+ {
+  "kind": "A",
+  "headword": "spezialisiert",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Die Klinik ist ___ Herzkrankheiten spezialisiert.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "erstaunt",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Wir waren ___ das Ergebnis erstaunt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "erschrocken",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Er war ___ die schlechten Nachrichten erschrocken.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "entsetzt",
+  "preposition": "über",
+  "case": "A",
+  "sentence": "Alle waren ___ den Unfall entsetzt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "charakteristisch",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Diese Symptome sind charakteristisch ___ die Krankheit.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "schädlich",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Rauchen ist schädlich ___ die Gesundheit.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "nützlich",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Das Wörterbuch ist nützlich ___ die Prüfung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "A",
+  "headword": "gefährlich",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Das Medikament ist gefährlich ___ Kinder.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "das Recht",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Jeder Mensch hat ein Recht ___ Bildung.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Bedarf",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Es gibt einen großen Bedarf ___ Fachkräften.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Appell",
+  "preposition": "an",
+  "case": "A",
+  "sentence": "Der Appell ___ die Bevölkerung war deutlich.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Kritik",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Die Kritik ___ der Regierung wächst.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Abhängigkeit",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Die Abhängigkeit ___ dem Öl ist groß.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Verzicht",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Der Verzicht ___ Zucker fällt ihm schwer.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Ahnung",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Ich habe keine Ahnung ___ Technik.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Hilfe",
+  "preposition": "bei",
+  "case": "D",
+  "sentence": "Danke für die Hilfe ___ den Hausaufgaben.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Furcht",
+  "preposition": "vor",
+  "case": "D",
+  "sentence": "Seine Furcht ___ Spinnen ist groß.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Antwort",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Ich warte auf eine Antwort ___ meine Frage.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Reaktion",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Die Reaktion ___ den Vorschlag war positiv.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Auswirkung",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Die Auswirkungen ___ die Umwelt sind enorm.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Kampf",
+  "preposition": "gegen",
+  "case": "A",
+  "sentence": "Der Kampf ___ den Krebs dauert Jahre.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Protest",
+  "preposition": "gegen",
+  "case": "A",
+  "sentence": "Der Protest ___ das neue Gesetz wächst.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Maßnahme",
+  "preposition": "gegen",
+  "case": "A",
+  "sentence": "Die Stadt plant Maßnahmen ___ den Lärm.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "das Mittel",
+  "preposition": "gegen",
+  "case": "A",
+  "sentence": "Gibt es ein Mittel ___ Kopfschmerzen?",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Impfung",
+  "preposition": "gegen",
+  "case": "A",
+  "sentence": "Die Impfung ___ Grippe ist kostenlos.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Zusammenarbeit",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Die Zusammenarbeit ___ der Firma klappt gut.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Verbindung",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Er hat keine Verbindung ___ seiner Familie mehr.",
+  "alsoValidPrepositions": [
+   "mit"
+  ]
+ },
+ {
+  "kind": "N",
+  "headword": "der Zugang",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Der Zugang ___ dem Gebäude ist verboten.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Mitarbeit",
+  "preposition": "an",
+  "case": "D",
+  "sentence": "Danke für die Mitarbeit ___ diesem Projekt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Bewerbung",
+  "preposition": "um",
+  "case": "A",
+  "sentence": "Seine Bewerbung ___ die Stelle war erfolgreich.",
+  "alsoValidPrepositions": [
+   "auf"
+  ]
+ },
+ {
+  "kind": "N",
+  "headword": "die Forderung",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Die Forderung ___ höheren Löhnen wird lauter.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "das Bedürfnis",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Er hat ein großes Bedürfnis ___ Ruhe.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Gefahr",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Der Sturm ist eine Gefahr ___ die Schifffahrt.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Voraussetzung",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Gute Deutschkenntnisse sind eine Voraussetzung ___ das Studium.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "die Bedeutung",
+  "preposition": "für",
+  "case": "A",
+  "sentence": "Das hat eine große Bedeutung ___ mich.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "der Anlass",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Es gibt keinen Anlass ___ Sorge.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "N",
+  "headword": "das Verhältnis",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Ich habe ein gutes Verhältnis ___ meinen Kollegen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "auf jeden Fall",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Ich komme ___ jeden Fall.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "auf keinen Fall",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "___ keinen Fall darfst du das vergessen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "auf einmal",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "___ einmal wurde es dunkel.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "auf Wunsch",
+  "preposition": "auf",
+  "case": "A",
+  "sentence": "Das Essen wird ___ Wunsch vegetarisch zubereitet.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "aus diesem Grund",
+  "preposition": "aus",
+  "case": "D",
+  "sentence": "___ diesem Grund bin ich gekommen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "bei Bedarf",
+  "preposition": "bei",
+  "case": "D",
+  "sentence": "Rufen Sie uns ___ Bedarf an.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "bei Gelegenheit",
+  "preposition": "bei",
+  "case": "D",
+  "sentence": "Ich melde mich ___ Gelegenheit.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "durch Zufall",
+  "preposition": "durch",
+  "case": "A",
+  "sentence": "Ich habe ihn ___ Zufall getroffen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "mit Absicht",
+  "preposition": "mit",
+  "case": "D",
+  "sentence": "Das hat er ___ Absicht gemacht.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "unter anderem",
+  "preposition": "unter",
+  "case": "D",
+  "sentence": "Wir besprechen ___ anderem das Budget.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "unter Umständen",
+  "preposition": "unter",
+  "case": "D",
+  "sentence": "___ Umständen dauert es länger.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "von Anfang an",
+  "preposition": "von",
+  "case": "D",
+  "sentence": "Ich habe es ___ Anfang an gewusst.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "vor kurzem",
+  "preposition": "vor",
+  "case": "D",
+  "sentence": "Ich habe ihn ___ kurzem gesehen.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "zu Beginn",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "___ Beginn des Kurses stellen wir uns vor.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "zu Recht",
+  "preposition": "zu",
+  "case": "D",
+  "sentence": "Er ist ___ Recht stolz auf seine Leistung.",
+  "alsoValidPrepositions": [
+   "mit"
+  ]
+ },
+ {
+  "kind": "E",
+  "headword": "gegen Abend",
+  "preposition": "gegen",
+  "case": "A",
+  "sentence": "Wir kommen ___ Abend an.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "seit Jahren",
+  "preposition": "seit",
+  "case": "D",
+  "sentence": "Ich lerne ___ Jahren Deutsch.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "in Kauf nehmen",
+  "preposition": "in",
+  "case": "A",
+  "sentence": "Wir nehmen die höheren Kosten ___ Kauf.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "in Betracht ziehen",
+  "preposition": "in",
+  "case": "A",
+  "sentence": "Wir ziehen alle Möglichkeiten ___ Betracht.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "in Frage stellen",
+  "preposition": "in",
+  "case": "A",
+  "sentence": "Niemand stellt seine Leistung ___ Frage.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "in Anspruch nehmen",
+  "preposition": "in",
+  "case": "A",
+  "sentence": "Er nimmt oft Hilfe ___ Anspruch.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "in Eile",
+  "preposition": "in",
+  "case": "D",
+  "sentence": "Ich bin heute ___ Eile.",
+  "alsoValidPrepositions": []
+ },
+ {
+  "kind": "E",
+  "headword": "nach Möglichkeit",
+  "preposition": "nach",
+  "case": "D",
+  "sentence": "Bitte komm ___ Möglichkeit früher.",
+  "alsoValidPrepositions": []
+ }
+]
