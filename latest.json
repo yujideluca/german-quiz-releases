@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7",
+  "versionCode": 19,
+  "versionName": "2.7.1",
   "apk": "german-quiz.apk",
-  "sha256": "1cbbf21bf64ddb554dc9938c3219a98914374fc36d8e0cef43d0369c141345a8",
-  "commit": "fe3cfa67c3383aad124a660e05ea29d1b8ac4975"
+  "sha256": "27772e1ed8819e829397b07fa5203b07b3d5b54caf4ee4d075bd287386e10b6a",
+  "commit": "85f530b9a2776b7446a3baa7e04f13615264b968"
 }
